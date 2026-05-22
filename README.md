@@ -1,14 +1,22 @@
----
-title: DinoAI
-emoji: 📈
-colorFrom: gray
-colorTo: red
-sdk: gradio
-sdk_version: 6.11.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: Study Assistant
----
+# Jarvis AI Study Assistant
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Jarvis AI Study Assistant is an AI-powered study assistant built using Python. It helps students with learning support, AI interaction, and productivity features.
+
+ https://lokesh9912-dinoai.hf.space/
+
+## Features
+
+* AI-powered responses
+* Study assistance
+* Interactive interface
+* Python-based backend
+
+## Tech Stack
+
+* Python
+* AI APIs
+* Hugging Face / Streamlit / Gradio
+
+## Author
+
+Lokesh Mendudala
